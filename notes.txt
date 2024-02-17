@@ -1,0 +1,37 @@
+# Style Guide
+
+1. What are the assets we're gonna use? 
+
+## Fonts
+1 Family Font
+2 sizes
+Bold and normal
+
+## Icons
+Favicon
+
+## Images
+Profile - Static
+
+## Colors
+Green - MAIN
+Deep Black 
+Dark Grey
+Light Gray
+White
+
+
+2. How to start translating to CSS
+
+2.1 Layout
+We can use, Flex, Grid or Tables
+
+Think of HTML and CSS as a whole, they have an effect in each other
+
+
+Grid: Usually for 2-dimension layouts
+Flex: Usually for 1-dimension layouts
+Tables: For actual table, to display data. Lists of items, with common information as columns. 
+
+
+2.2 
