@@ -1,5 +1,14 @@
-.attribution { font-size: 11px; text-align: center; }
-.attribution a { color: hsl(228, 45%, 44%); }
+.attribution { 
+  margin-top: 1rem;
+  font-size: 11px; 
+  text-align: center; 
+  color: white;
+}
+
+.attribution a { 
+  color: white;
+  /* color: hsl(228, 45%, 44%);  */
+}
 
 * {
   --primary-color: hsl(75, 94%, 57%);
@@ -21,6 +30,7 @@ body {
   width: 100vw;
   min-height: 100vh;
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   background-color: var(--off-black-color);
